@@ -353,7 +353,7 @@ The European Commission’s Joint Research Centre (JRC) has evaluated the Global
 
 The study compared GERS-based entity linking against traditional spatial overlay and text-based matching, finding that GERS reduced ambiguity and improved reproducibility of cross-dataset joins. The experiment demonstrated that GERS can act as a stable reference key for integrating heterogeneous datasets conforming to INSPIRE data models and the European Data Strategy framework.
 
-This peer-reviewed analysis provides independent, quantitative evidence of GERS performance in a multi-jurisdictional context. It confirms that GERS can facilitate data harmonization across administrative boundaries—an essential requirement for European spatial data infrastructures and other federated data ecosystems.
+This peer-reviewed analysis provides independent, quantitative evidence of GERS performance in a multi-jurisdictional context. It confirms that GERS can facilitate data harmonization across administrative boundaries which is an essential requirement for European spatial data infrastructures and other federated data ecosystems.
 
 *Implementation URLs:*
 
